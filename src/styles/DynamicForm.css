@@ -1,0 +1,14 @@
+/* Example styling for DynamicForm */
+button {
+    margin: 5px;
+  }
+  
+  h4 {
+    display: inline-block;
+    margin-right: 10px;
+  }
+  
+  input, select {
+    margin-right: 10px;
+  }
+  
